@@ -1,0 +1,7 @@
+*.session
+sticker.json
+myenv/
+.idea/
+*.iml
+__pycache__/
+/__pycache__/
